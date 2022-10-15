@@ -1,0 +1,11 @@
+This project was completed in December 2021.
+In a group of 4 including myself, Kevin Kim, Sarah Elisabeth Cleghorn and Vedant Grover we designed, programmed, and presented a parallel parking simulation.
+Using Lego Mindstorms Ev3, we programmed a robot to simulate parallel parking using RobotC.
+Three scenarios were presented:
+  1. Parking between two objects.
+  2. Parking behind one object.
+  3. An obstacle in the parking spot
+    In which the robot will detect the object and decide not to park.
+    
+
+  
